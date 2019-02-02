@@ -3,12 +3,19 @@
 ## HISTORY
 
 19 May 2018 - I downloaded a gearModule.scad script from somewhere in OpenSCAD forums and placed 4 gears together.
+
 20 May 2018 - first prototype, sketch5_3 is done
+
 21 May 2018 - sketch5_6, with limits
+
 22 May 2018 - sketch5_7, flex-back
+
 26 May 2018 - sketch6_1, _2
+
 12 September 2018 - better metacarpal bones
+
 14 September 2018 - metacarpal body sketch6_0v2, 4 finger prototype
+
 
 ## Design
 
